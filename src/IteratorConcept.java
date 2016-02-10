@@ -33,7 +33,6 @@ public class IteratorConcept {
              }else{
                  System.out.println(_person.getName() + " has not been removed from the list!!!!");
              }
-
         }
     }
 }
