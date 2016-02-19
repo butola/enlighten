@@ -12,8 +12,8 @@ import java.util.List;
 public class Test {
     public static void main(String args[]){
         Person person = new Person();
-        person.setAge(22);
-        person.setName("Yogi");
+        person.setAge(07);
+        person.setName("Zulu");
 
         Person person2 = new Person();
         person2.setAge(24);
