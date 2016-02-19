@@ -16,11 +16,11 @@ public class Test {
         person.setName("Zulu");
 
         Person person2 = new Person();
-        person2.setAge(24);
-        person2.setName("Butola");
+        person2.setAge(30);
+        person2.setName("Madhu");
         List<Person> personList = new ArrayList<Person>();
         personList.add(person);
-      //  personList.add(person2);
+        personList.add(person2);
 
         Collections.sort(personList, new Comparator<Person>() {
             @Override
