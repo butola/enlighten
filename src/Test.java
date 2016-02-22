@@ -35,6 +35,7 @@ public class Test {
 
         // More tests.
         // Adding new comments.
+        //Comment # 42
     }
 }
 
