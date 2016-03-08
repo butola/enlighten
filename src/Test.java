@@ -31,7 +31,7 @@ public class Test {
         });
 
         for(Person _person: personList){
-            System.out.println("Name : "+ _person.getName() + " is eldest !!!!");
+            System.out.println("Name : "+ _person.getName() + " is oldest !!!!");
             System.out.print("new changes");
         }
 
